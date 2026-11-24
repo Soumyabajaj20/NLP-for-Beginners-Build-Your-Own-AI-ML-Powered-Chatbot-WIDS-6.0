@@ -1,4 +1,4 @@
-# 🤖 Talk to Machines: A Beginner's Guide to NLP & AI/ML
+# 🤖 NLP for Beginners: Build Your Own AI/ML-Powered Chatbot
 ### WiDS 6.0 (Winter in Data Science) · Guided Project · 5 Weeks
 
 > Ever wondered how ChatGPT understands you, how Gmail catches spam, or how Amazon knows a review is negative?
