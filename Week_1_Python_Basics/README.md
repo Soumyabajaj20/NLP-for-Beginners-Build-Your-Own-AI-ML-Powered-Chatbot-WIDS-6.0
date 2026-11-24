@@ -6,8 +6,8 @@
 
 | Notebook | Open |
 |----------|------|
-| 📘 Guided learning notebook | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Soumyabajaj20/Talk-to-Machines-WiDS-6.0/blob/main/Week_1_Python_Basics/Week1_Learn.ipynb) |
-| 📝 Assignment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Soumyabajaj20/Talk-to-Machines-WiDS-6.0/blob/main/Week_1_Python_Basics/Week1_Assignment.ipynb) |
+| 📘 Guided learning notebook | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IJExaKvupSQUmj0T1GsVwPxkF9w2KNLW?usp=sharing) |
+| 📝 Assignment | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1uct_CtJz_WnhT8BAF1pjIzuNZIoa7UDZ?usp=sharing) |
 
 > 💡 **How to use this week:** Watch the video for the day, then run the matching section of `Week1_Learn.ipynb` and try the 🧪 exercises. Don't just watch. **Type the code yourself.**
 
